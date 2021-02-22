@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 //        System.out.println("123");
 //        System.out.println("Arun");
+
 //
 //        // We can create variables -> Comment
 //        /* This is a
@@ -68,6 +69,7 @@ public class Main {
         // called as Scanner
 
         // vvImp -> Scanner class is a part of packagae called java.util
+        System.out.println("Hello Anil");
 
     }
 }
